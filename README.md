@@ -1,5 +1,10 @@
 # Career Advice for Juniors
 
+[![stars](https://badgen.net/github/stars/postmodernistx/career-advice-for-juniors)](https://github.com/postmodernistx/career-advice-for-juniors)
+[![forks](https://badgen.net/github/forks/postmodernistx/career-advice-for-juniors)](https://github.com/postmodernistx/career-advice-for-juniors)
+[![open issues](https://badgen.net/github/open-issues/postmodernistx/career-advice-for-juniors)](https://github.com/postmodernistx/career-advice-for-juniors/issues)
+[![last commit](https://badgen.net/github/last-commit/postmodernistx/career-advice-for-juniors)](https://github.com/postmodernistx/career-advice-for-juniors)
+
 These are my personal opinions. There will be recruiters and techies with vastly different views!
 
 Some ideas I've probably stolen from others. I apologize for that. Create a PR and I will credit you!
