@@ -67,3 +67,11 @@ Feel free to contribute with your own suggestions!
 ### READMEs
 - [README template by Othneil Drew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
 - [README.so](https://readme.so/)
+
+## Role descriptions & responsibilities
+- [career-ladders.dev](https://career-ladders.dev/)
+- [GitLab Roles](https://about.gitlab.com/job-families/)
+
+## Misc
+- [Advice for writing a technical resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
+- [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap)
