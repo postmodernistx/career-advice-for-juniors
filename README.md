@@ -55,6 +55,9 @@ Feel free to contribute with your own suggestions!
 - While in school, team up in your free time with your classmates and do projects together! Small, extensive, or micro undertakings show your collaboration and git (conflict) management skills!
 - Build something you need! It's much easier to find the time and motivation to do side projects between every other "should" task in your life.
 - Forks and school assignments are good, but it's impossible to determine what you made, learned, know, understand, and can implement - and what part of the code was handed to you. Make it clear! (Use the README)
+- Try to commit at least fairly regulary, so your contribution graph isn't empty.
+
+![image](https://user-images.githubusercontent.com/18628999/215314732-732a60ef-89f6-4b41-93ed-64df29202a85.png)
 
 ## Your language
 - Don't say "This may be stupid…" The best advice I've seen is to replace "stupid" with "potato". Genius!
