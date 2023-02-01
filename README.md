@@ -39,6 +39,11 @@ Feel free to contribute with your own suggestions!
 28. You don't have to wait for the job ad to show up! Send an application. Ask the potential hiring manager for a coffee date! And with virtual meetings, that's easier than ever. 
 29. Tailor your showcase projects for the industry you're applying for. If you're applying to an e-commerce company, your dice-rolling game might not be the best example!
 30. If a trainee position requires you to be enrolled in school, put your education before your work experience.
+31. If you save your resume as a PDF, most systems will allow for multipage CVs. Add some project screenshots, lessons learned to a separate (later) CV page to demonstrate  your skills. Be concise on the first page, elaborate on the coming pages.
+32. Include received awards and recognition, like being the co-worker of the month, a mentor, a study buddy…
+33. Remove irrelevant experience, even if that creates gaps in your resume. Or at least, exclude the description unless it _really_ provides some value.
+34. Remove common skills, like "MS Office" or "typing on a keyboard".
+35. I will read your resume first, then your cover letter. But the cover letter _will_ be the one convincing me to call (or e-mail) you.
 
 ## On rejection
 
@@ -53,6 +58,8 @@ Feel free to contribute with your own suggestions!
 - Try to commit at least fairly regulary, so your contribution graph isn't empty.
 
 ![image](https://user-images.githubusercontent.com/18628999/215314732-732a60ef-89f6-4b41-93ed-64df29202a85.png)
+
+- Share your expertise on public channels such as: StackOverflow answers, open source contributions, papers, blog posts. Keep a TIL journal, or use a GitHub repo to document your learning journey.
 
 ## Your language
 - Don't say "This may be stupid…" The best advice I've seen is to replace "stupid" with "potato". Genius!
