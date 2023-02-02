@@ -44,6 +44,7 @@ Feel free to contribute with your own suggestions!
 33. Remove irrelevant experience, even if that creates gaps in your resume. Or at least, exclude the description unless it _really_ provides some value.
 34. Remove common skills, like "MS Office" or "typing on a keyboard".
 35. I will read your resume first, then your cover letter. But the cover letter _will_ be the one convincing me to call (or e-mail) you.
+36. Type out your (well-selected) GitHub/LinkedIn links so, if the recruitment system doesn't support clicking inside web-embedded PDFs, it's easy for the recruiter to visit your GitHub/LinkedIn profile.
 
 ## On rejection
 
