@@ -18,7 +18,8 @@ Feel free to contribute with your own suggestions!
 7. Make those pinned repositories have great READMEs! Show me what you made, with what technology, and foremost - what you learned!
 8. Include a clickable link to your GitHub profile from your CV. 
 9. If you have a separate website/portfolio, link it clearly from your GitHub profile README or profile section. 
-10. By the way, make sure [your profile has a README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme). 
+10. By the way, make sure [your profile has a README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+11. While at it, why not make your README [awesome](https://github.com/abhisheknaiidu/awesome-github-profile-readme) :sunglasses: Yet another opportunity to present yourself and your work! Make me _want_ to click on your projects.
 11. Make your CV super clear to skim through! Make clear sections with skills, education, and experience.
 12. Put some design skills to work on your CV. It's uninteresting to look at 50 white background black text applications with Times New Roman after a while. Be the one that pops!
 13. Put your full name on the application. Avoid abbreviating your name, but you don't have to include ALL of your 5 middle names. 
