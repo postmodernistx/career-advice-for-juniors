@@ -48,6 +48,7 @@ Feel free to contribute with your own suggestions!
 34. Remove common skills, like "MS Office" or "typing on a keyboard".
 35. I will read your resume first, then your cover letter. But the cover letter _will_ be the one convincing me to call (or e-mail) you.
 36. Type out your (well-selected) GitHub/LinkedIn links so, if the recruitment system doesn't support clicking inside web-embedded PDFs, it's easy for the recruiter to visit your GitHub/LinkedIn profile.
+37. Do some research (but don't stalk)! Address it to the company, find out who's the hiring manager (and LinkedIn doesn't make that too hard). You'll be able to get a personal touch/advantage easily.
 
 ## On rejection
 
