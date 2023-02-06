@@ -1,6 +1,6 @@
 # Career Advice for Juniors
 
-[![GitHub stars](https://img.shields.io/github/stars/postmodernistx/career-advice-for-juniors?style=social&label=Star&maxAge=2592000)](https://GitHub.com/postmodernistx/career-advice-for-juniors/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/postmodernistx/career-advice-for-juniors?style=social&label=Star&maxAge=2592000)](https://GitHub.com/postmodernistx/career-advice-for-juniors/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/postmodernistx/career-advice-for-juniors?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/postmodernistx/career-advice-for-juniors/watchers/)
 
 These are my personal opinions. There will be recruiters and techies with vastly different views!
 
