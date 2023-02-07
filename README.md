@@ -82,6 +82,9 @@ Feel free to contribute with your own suggestions!
 - [career-ladders.dev](https://career-ladders.dev/)
 - [GitLab Roles](https://about.gitlab.com/job-families/)
 
+## Resume templates
+- [Standard Resume](https://standardresume.co/tech)
+
 ## Misc
 - [Advice for writing a technical resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
 - [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap)
