@@ -23,7 +23,7 @@ Feel free to contribute with your own suggestions!
 10. By the way, make sure [your profile has a README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 11. While at it, why not make your README [awesome](https://github.com/abhisheknaiidu/awesome-github-profile-readme) :sunglasses: Yet another opportunity to present yourself and your work! Make me _want_ to click on your projects.
 11. Make your CV super clear to skim through! Make clear sections with skills, education, and experience.
-12. Put some design skills to work on your CV. It's uninteresting to look at 50 white background black text applications with Times New Roman after a while. Be the one that pops!
+12. Put some design skills to work on your CV. It's uninteresting to look at 50 white background black text applications with Times New Roman after a while. Be the one that pops! (Unless you know there's an automated CV screening system in place - in which case you should follow MAANG CV guidelines, I suppose, but that's highly unlikely for smaller companies).
 13. Put your full name on the application. Avoid abbreviating your name, but you don't have to include ALL of your 5 middle names. 
 14. Your personal letter will only be read after your CV (most likely). Make your CV catch the attention. 
 15. Tailor your personal letter. Mention the position, at least! That's the bare minimum. 
