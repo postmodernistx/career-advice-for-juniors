@@ -85,6 +85,7 @@ Feel free to contribute with your own suggestions!
 
 ## Resume templates
 - [Standard Resume](https://standardresume.co/tech)
+- [jsonresume.org](https://jsonresume.org/schema/) - Keep your resume in JSON format
 
 ## Misc
 - [Advice for writing a technical resume](https://css-tricks.com/advice-for-writing-a-technical-resume/)
