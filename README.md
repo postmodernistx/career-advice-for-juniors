@@ -74,6 +74,9 @@ Feel free to contribute with your own suggestions!
 - Make sure it's nice and inclusive!
 - Leave bad workplaces!
 
+## At the workplace
+- Dare to take initiative; show interest even if it's outside of your comfort zone. Ask questions & make suggestions.
+
 ## Resources
 ### READMEs
 - [README template by Othneil Drew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
